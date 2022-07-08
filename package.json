@@ -1,0 +1,32 @@
+{
+    "name": "fire-red",
+    "displayName": "Fire Red",
+    "description": "A red colorscheme for VScode dedicated to people who love this color.",
+    "version": "1.0.0",
+    "publisher": "sudofinn",
+    "icon": "FireRed.png",
+    "engines": {
+        "vscode": "^1.69.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+     "keywords": [
+        "Theme",
+        "Fire",
+        "Red",
+        "Dark",
+        "Burning",
+        "Hot",
+        "Monochrom"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Fire Red",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Fire Red-color-theme.json"
+            }
+        ]
+    }
+}
