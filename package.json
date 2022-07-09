@@ -1,12 +1,16 @@
 {
     "name": "fire-red",
-    "displayName": "Fire Red",
+    "displayName": "Fire Red Dark",
     "description": "A red colorscheme for VScode dedicated to people who love this color.",
     "version": "1.0.0",
     "publisher": "sudofinn",
     "icon": "FireRed.png",
     "engines": {
         "vscode": "^1.69.0"
+    },
+     "repository": {
+        "type": "git",
+        "url": "https://github.com/sudofinn/Fire-Red-vs-code-Colorscheme"
     },
     "categories": [
         "Themes"
