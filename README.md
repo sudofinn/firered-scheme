@@ -4,7 +4,10 @@ This is a red colorscheme for VS code.🔴
 It uses red colors to emphasize dark , red colors. 🔥
 
 ## Snapshots
-
+![First](FireRef1.jpg?raw=true)
+![Alt text](FireRef2.jpg?raw=true )
+![Alt text](FireRef3.jpg?raw=true )
+![Alt text](FireRef45.jpg?raw=true )
 
 
 ## Find
